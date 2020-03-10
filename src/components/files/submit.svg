@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="63.568" height="63.568" viewBox="0 0 63.568 63.568">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.349" x2="0.661" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#104451"/>
+      <stop offset="0.381" stop-color="#163f4a"/>
+      <stop offset="0.665" stop-color="#22333c"/>
+      <stop offset="1" stop-color="#282d35"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_5" data-name="Group 5" transform="translate(-1315 -583)">
+    <circle id="Ellipse_3" data-name="Ellipse 3" cx="31.784" cy="31.784" r="31.784" transform="translate(1315 583)" fill="url(#linear-gradient)"/>
+    <g id="Polygon_1" data-name="Polygon 1" transform="translate(1364 600) rotate(90)" fill="none">
+      <path d="M13.635,1.491a1,1,0,0,1,1.73,0L28.129,23.5a1,1,0,0,1-.865,1.5H1.736a1,1,0,0,1-.865-1.5Z" stroke="none"/>
+      <path d="M 14.5 2.491439819335938 L 2.170040130615234 23.74999809265137 L 26.82995986938477 23.74999809265137 L 14.5 2.491439819335938 M 14.5 0.9931507110595703 C 14.83617973327637 0.9931507110595703 15.17236042022705 1.159242630004883 15.36503028869629 1.491428375244141 L 28.12899971008301 23.49827766418457 C 28.51567077636719 24.16494750976563 28.0346508026123 24.99999809265137 27.26396942138672 24.99999809265137 L 1.736030578613281 24.99999809265137 C 0.9653396606445313 24.99999809265137 0.4843292236328125 24.16494750976563 0.8710002899169922 23.49827766418457 L 13.63496971130371 1.491428375244141 C 13.82763957977295 1.159242630004883 14.16382026672363 0.9931507110595703 14.5 0.9931507110595703 Z" stroke="none" fill="#f6f8ff"/>
+    </g>
+  </g>
+</svg>

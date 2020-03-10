@@ -1,0 +1,9 @@
+export const ADD_PRODUCT_STARTED = "addProductStart"
+export const ADD_PRODUCT_SUCCESS = "addProductSuccess"
+export const ADD_PRODUCT_FAILURE = "addProductFailure"
+export const CHECK_PRODUCTS_STARTED = "checkProductsStart"
+export const CHECK_PRODUCTS_SUCCESS = "checkProductsSuccess"
+export const CHECK_PRODUCTS_FAILURE = "checkProductsFailure"
+export const LOGIN_STARTED = 'LOGIN_REQUEST'
+export const LOGIN_SUCCESS = 'LOGIN_SUCCESS'
+export const LOGIN_FAILURE = 'LOGIN_FAILURE'
